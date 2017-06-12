@@ -1,0 +1,7 @@
+﻿foo, 2
+bar, 3
+sna, 4
+foo, 8
+sna, 5
+sna, 6
+faa, 11
